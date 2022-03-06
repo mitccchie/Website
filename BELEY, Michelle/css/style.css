@@ -1,0 +1,641 @@
+@import url("http://fonts.cdnfonts.com/css/georgia");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+header {
+}
+.logo {
+  position: absolute;
+  left: 15.15%;
+  right: 80.7%;
+  top: 0.46%;
+  bottom: 99.09%;
+  width: 79px;
+  height: 23px;
+  left: 100px;
+  top: 23.32px;
+}
+.head {
+  width: 1178px;
+  height: 85px;
+  left: 16px;
+  position: absolute;
+  background-color: #ffffff;
+  left: 0.83%;
+  right: -0.83%;
+  top: 0%;
+  bottom: 98.33%;
+}
+.navi {
+  width: 557px;
+  height: 24px;
+  top: 23px;
+  left: 543px;
+  color: #292929;
+  list-style-type: none;
+}
+.why {
+  width: 100px;
+  height: 24px;
+  top: 23px;
+  left: 543px;
+  font-family: Lato;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  position: absolute;
+}
+.solution {
+  width: 82px;
+  height: 24px;
+  top: 23px;
+  left: 711px;
+  font-family: Lato;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  position: absolute;
+}
+.comm {
+  width: 103px;
+  height: 24px;
+  top: 23px;
+  left: 864px;
+  font-family: Lato;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  position: absolute;
+}
+.pric {
+  width: 61px;
+  height: 24px;
+  top: 23px;
+  left: 1039px;
+  font-family: Lato;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  position: absolute;
+}
+.sign {
+  width: 59px;
+  height: 24px;
+  top: 23px;
+  left: 1400px;
+  font-family: Lato;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+
+  right: 24.9%;
+  top: 0.45%;
+  bottom: 99.08%;
+}
+.start {
+  background-color: #01996d;
+  height: 51px;
+  width: 183px;
+  left: 1500px;
+  top: 10px;
+  border-radius: 4px;
+  padding: 13px, 50px, 13px, 50px;
+  position: absolute;
+  border: 1px solid #01996d;
+  box-sizing: border-box;
+  border-radius: 4px;
+
+  right: 13.54%;
+  top: 0.2%;
+  bottom: 98.8%;
+}
+.startt {
+  font-family: Lato;
+  font-family: Lato;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0px;
+  text-align: center;
+  position: static;
+  color: #ffffff;
+}
+.main {
+  width: 1120px;
+  height: 895px;
+  top: 78px;
+  left: 16px;
+  position: absolute;
+}
+.text1 {
+  height: 384px;
+  width: 440px;
+  left: 291px;
+  top: 253px;
+  border-radius: 4px;
+}
+.aware {
+  height: 148px;
+  width: 440px;
+  left: 291px;
+  top: 253px;
+  border-radius: nullpx;
+  font-family: Georgia;
+  font-size: 65px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 74px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  color: #01996d;
+}
+.ev {
+  height: 123px;
+  width: 420px;
+  left: 291px;
+  top: 470px;
+  border-radius: nullpx;
+  font-family: Lato;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: Lato;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+}
+.button {
+  height: 65px;
+  width: 227px;
+  left: 291px;
+  top: 600px;
+  border-radius: 4px;
+  padding: 20px, 50px, 20px, 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 50px;
+
+  position: absolute;
+
+  background: #01996d;
+  border: 1px solid #01996d;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.text-button {
+  position: static;
+  left: 22.03%;
+  right: 22.03%;
+  top: 30.77%;
+  bottom: 30.77%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  width: 200px;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.one {
+  height: 327px;
+  width: 1391px;
+  left: 275px;
+  top: 1150px;
+  border-radius: nullpx;
+  position: absolute;
+}
+.how {
+  height: 38px;
+  width: 141px;
+  left: 275px;
+  top: 1150px;
+  border-radius: nullpx;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 157%;
+
+  color: #424242;
+}
+.und {
+  height: 158px;
+  width: 600px;
+  left: 0px;
+  top: 50px;
+  border-radius: nullpx;
+  font-family: Georgia;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 79px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  color: #01996d;
+}
+.off {
+  position: absolute;
+  width: 671px;
+  height: 269px;
+  left: 895px;
+  top: 100px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  position: absolute;
+
+  color: #424242;
+}
+.two {
+  position: absolute;
+  width: 390px;
+  height: 937px;
+  left: 275px;
+  top: 1495px;
+}
+.onee {
+  height: 100px;
+  width: 140px;
+  left: 75px;
+  top: 50px;
+  position: absolute;
+}
+.personal {
+  position: absolute;
+  left: 40.91%;
+  right: 71.67%;
+  top: 13.01%;
+  bottom: 69.11%;
+
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 150%;
+
+  text-align: center;
+
+  color: #000000;
+}
+.content1 {
+  position: absolute;
+  width: 382px;
+  height: 150px;
+  left: 40px;
+  top: 200px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+
+  color: #424242;
+}
+.rec1 {
+  position: absolute;
+  width: 390px;
+  height: 492px;
+  left: 40px;
+  top: 440px;
+}
+.three {
+  position: absolute;
+  width: 390px;
+  height: 850px;
+  left: 875px;
+  top: 1695px;
+}
+.twoo {
+  height: 100px;
+  width: 140px;
+  left: 75px;
+  top: 50px;
+  position: absolute;
+}
+.write {
+  position: absolute;
+  left: 40.91%;
+  right: 71.67%;
+  top: 13.01%;
+  bottom: 69.11%;
+  width: 400px;
+
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 150%;
+
+  text-align: center;
+
+  color: #000000;
+}
+.content2 {
+  position: absolute;
+  width: 382px;
+  height: 150px;
+  left: 40px;
+  top: 200px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+
+  color: #424242;
+}
+.rec2 {
+  position: absolute;
+  width: 390px;
+  height: 492px;
+  left: 40px;
+  top: 390px;
+}
+.four {
+  position: absolute;
+  width: 390px;
+  height: 850px;
+  left: 1475px;
+  top: 1595px;
+}
+.threez {
+  height: 100px;
+  width: 140px;
+  left: 75px;
+  top: 50px;
+  position: absolute;
+}
+.ali {
+  position: absolute;
+  left: 10.91%;
+  right: 71.67%;
+  top: 13.01%;
+  bottom: 69.11%;
+  width: 400px;
+
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 150%;
+
+  text-align: center;
+
+  color: #000000;
+}
+.content3 {
+  position: absolute;
+  width: 382px;
+  height: 150px;
+  left: 40px;
+  top: 200px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+
+  color: #424242;
+}
+.rec3 {
+  position: absolute;
+  width: 390px;
+  height: 492px;
+  left: 40px;
+  top: 390px;
+}
+.five {
+  height: 922px;
+  width: 1920px;
+  left: 0px;
+  top: 2600px;
+  border-radius: 0px;
+  position: absolute;
+  width: 1920px;
+  height: 922px;
+
+  background: #245852;
+}
+.pic1 {
+  height: 516px;
+  width: 895px;
+  left: 842px;
+  top: 230px;
+  border-radius: 16px;
+  position: absolute;
+  width: 895.84px;
+  height: 516.11px;
+}
+.hear {
+  position: absolute;
+  width: 580px;
+  height: 158px;
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 157%;
+  left: 207px;
+  top: 310px;
+  bottom: 454px;
+  right: 1133px;
+  color: #ffffff;
+}
+.see {
+  position: absolute;
+  width: 550px;
+  height: 39px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 157%;
+  left: 207px;
+  top: 507px;
+  bottom: 382px;
+  right: 1163px;
+  color: #ffffff;
+}
+.button2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 50px;
+  position: absolute;
+  width: 240px;
+  height: 65px;
+  background: #01996d;
+  border: 1px solid #01996d;
+  box-sizing: border-box;
+  border-radius: 4px;
+  height: 65px;
+  width: 240px;
+  left: 200px;
+  top: 605px;
+  border-radius: 4px;
+  padding: 20px, 50px, 20px, 50px;
+}
+.label {
+  height: 25px;
+  width: 170px;
+  left: 50px;
+  top: 20px;
+  position: static;
+  left: 20.83%;
+  right: 20.83%;
+  top: 10.77%;
+  bottom: 30.77%;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+.six {
+  position: absolute;
+  width: 1370px;
+  height: 648px;
+  left: 275px;
+  top: 3739px;
+}
+
+.product {
+  position: absolute;
+  width: 136px;
+  height: 39px;
+  left: 800px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 157%;
+  color: #424242;
+}
+
+.diary {
+  position: absolute;
+  width: 584px;
+  height: 158px;
+  top: 50px;
+  left: 800px;
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 157%;
+  color: #01996d;
+}
+
+.everyone {
+  position: absolute;
+  width: 530px;
+  height: 81px;
+  top: 200px;
+  left: 800px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 31px;
+  color: #484848;
+}
+
+.button3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 400px;
+  left: 800px;
+  position: absolute;
+  width: 227px;
+  height: 65px;
+  background: #01996d;
+  border: 1px solid #01996d;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.label1 {
+  position: static;
+  left: 22.03%;
+  right: 22.03%;
+  top: 30.77%;
+  bottom: 30.77%;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  padding-top: 15px;
+  color: #ffffff;
+}
+
+footer {
+  position: absolute;
+  width: 1920px;
+  height: 617px;
+  top: 4592px;
+  background: #245852;
+  left: 0;
+}
+
+footer h3 {
+  position: absolute;
+  width: 108px;
+  height: 51.89px;
+  padding-top: 88px;
+  left: 275px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 55px;
+  color: #ffffff;
+}
+
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 250px;
+}
+
+footer li {
+  width: 121px;
+  height: 28.3px;
+  left: 240px;
+  position: relative;
+  margin-bottom: 50px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+}
